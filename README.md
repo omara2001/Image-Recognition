@@ -116,4 +116,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Made with ❤️ by [Omar](https://github.com/omara2001)
+Made with ❤️ by [Omar A](https://github.com/omara2001)
