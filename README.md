@@ -1,4 +1,4 @@
-# VisionAI - Image Recognition Frontend
+# VisionAI - Image Recognition 
 
 ![VisionAI Logo](https://img.shields.io/badge/VisionAI-Image%20Recognition-4f46e5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+CiAgPHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMThjLTQuNDEgMC04LTMuNTktOC04czMuNTktOCA4LTggOCAzLjU5IDggOC0zLjU5IDgtOCA4em0tNS05aDEwdjJIN3oiLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjgiIHI9IjIiLz4KICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjE2IiByPSIyIi8+Cjwvc3ZnPg==)
 [![Powered by Gemini](https://img.shields.io/badge/Powered%20by-Gemini-blue?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
